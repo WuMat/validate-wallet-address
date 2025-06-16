@@ -2,8 +2,14 @@
   "name": "validate-wallet-address",
   "version": "0.1.7",
   "type": "module",
+  "description": "Validate wallet address",
+  "license": "MIT",
   "author": {
     "name": "Mateusz Wuzik"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WuMat/validate-wallet-address.git"
   },
   "exports": {
     ".": {
