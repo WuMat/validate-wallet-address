@@ -1,0 +1,11 @@
+export { isBitcoinWallet } from "./validate/isBitcoinWallet";
+export { isEVMWallet } from "./validate/isEVMWallet";
+export { isSolanaWallet } from "./validate/isSolanaWallet";
+export { isTonWallet } from "./validate/isTonWallet";
+export { isTronWallet } from "./validate/isTronWallet";
+export { isNearWallet } from "./validate/isNearWallet";
+export { isBitcoinMainnetWallet } from "./validate/isBitcoinWallet";
+export { isBitcoinTestnetWallet } from "./validate/isBitcoinWallet";
+export { isWallet } from "./validate/isWallet";
+export type { Network } from "./validate/isWallet";
+export { networksList } from "./validate/isWallet";
